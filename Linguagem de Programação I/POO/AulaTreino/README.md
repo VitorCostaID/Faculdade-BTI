@@ -1,0 +1,5 @@
+# Exercício 
+
+Implemente uma **classe Aluno** que represente um aluno do IMD e seus dados mais comuns. Abstraia os atributos que considerar importantes (pelo menos 5), definindo a sua visibilidade de acordo. Defina e implemente os métodos **getters** e **setters** para cada atributo, quando julgar necessário. Crie um programa para instanciar e testar um conjunto de alunos.
+
+Implemente uma classe **Turma** que represente uma turma do IMD e seus dados mais comuns. Considere que **toda turma tem um nome**, a **identificação do componente curricular** à qual está associada, uma **lista de alunos** e uma **quantidade de alunos matriculados**. Defina os atributos e sua visibilidade. Defina e implemente ainda os métodos getters e setters para cada atributo, quando julgar necessário. Defina também métodos que permitam a inclusão e exclusão de alunos na turma. Crie um programa para instanciar e testar uma turma.

@@ -23,13 +23,13 @@ class Aluno {
     // Atualizar a primeira nota
     public void setNota1(double nota1) {
         this.nota1 = nota1;
-        calcularMedia(); // Recalcula a média após a mudança
+        calcularMedia(); 
     }
 
     // Atualizar a segunda nota
     public void setNota2(double nota2) {
         this.nota2 = nota2;
-        calcularMedia(); // Recalcula a média após a mudança
+        calcularMedia(); 
     }
 
     // Calcular a média 
@@ -123,7 +123,7 @@ public class Escola {
             Aluno aluno3 = new Aluno("Caio", "0032862", 5.0, 7.0);
             listaAlunos.add(aluno3);
 
-            // Atualização da nota de um aluno específico (Caio, que está na posição 2)
+            // Atualização da nota do caio
             System.out.println("Atualizando a nota 1 do aluno " + listaAlunos.get(2).getNome() + " de 5.0 para 8.0.");
             listaAlunos.get(2).setNota1(8.0);
 

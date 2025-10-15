@@ -68,7 +68,6 @@ class CadastrarAluno{
         Collections.sort(listaDeAlunos, new Comparator<Alunos>() {
             @Override
             public int compare(Alunos a1, Alunos a2) {
-                // Modificado para ordenar pelo nome em ordem alfabética (String.compareTo)
                 return a1.getNome().compareTo(a2.getNome());
             }
         });
@@ -96,7 +95,7 @@ public class CadastrodeAlunos {
         cadastro.cadastrarAluno("Caio Moreira", "13574865");
         cadastro.cadastrarAluno("Helena Tavares", "00214488");
         
-        // Teste de exceção (Matrícula repetida)
+        // Matricula Repetida
         cadastro.cadastrarAluno("Marta Silva", "80028922");
         
         System.out.println("\n---  BUSCA E EXIBIÇÃO ---");

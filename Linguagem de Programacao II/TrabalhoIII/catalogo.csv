@@ -1,0 +1,1001 @@
+ID,Tipo,Urgência,Peso,Descrição
+1,3,1,64,Roupas
+2,9,3,82,Alimentos
+3,9,3,26,Alimentos
+4,9,3,90,Medicamentos
+5,5,2,65,Eletrônicos
+6,5,2,94,Eletrodomésticos
+7,9,3,48,Vacinas
+8,9,3,76,Equipamentos Médicos
+9,9,3,53,Vacinas
+10,5,2,36,Têxteis
+11,9,3,54,Medicamentos
+12,9,3,29,Medicamentos
+13,9,3,54,Vacinas
+14,9,3,50,Vacinas
+15,9,3,47,Peças Mecânicas
+16,3,1,82,Roupas
+17,9,3,97,Equipamentos Médicos
+18,9,3,71,Equipamentos Médicos
+19,3,1,30,Calçados
+20,5,2,46,Eletrônicos
+21,5,2,38,Eletrônicos
+22,5,2,33,Eletrodomésticos
+23,5,2,15,Eletrodomésticos
+24,9,3,23,Equipamentos Médicos
+25,9,3,42,Vacinas
+26,9,3,43,Vacinas
+27,9,3,66,Medicamentos
+28,9,3,90,Peças Mecânicas
+29,3,1,38,Calçados
+30,3,1,45,Calçados
+31,9,3,32,Equipamentos Médicos
+32,9,3,20,Peças Mecânicas
+33,9,3,93,Vacinas
+34,3,1,35,Roupas
+35,3,1,96,Roupas
+36,9,3,91,Equipamentos Médicos
+37,9,3,36,Equipamentos Médicos
+38,9,3,70,Peças Mecânicas
+39,9,3,25,Medicamentos
+40,9,3,49,Alimentos
+41,3,1,87,Calçados
+42,9,3,76,Equipamentos Médicos
+43,5,2,28,Têxteis
+44,3,1,53,Roupas
+45,5,2,54,Eletrônicos
+46,5,2,67,Têxteis
+47,5,2,56,Eletrodomésticos
+48,9,3,18,Vacinas
+49,9,3,92,Medicamentos
+50,9,3,15,Medicamentos
+51,5,2,16,Eletrodomésticos
+52,5,2,52,Eletrônicos
+53,5,2,54,Eletrônicos
+54,3,1,56,Calçados
+55,9,3,24,Alimentos
+56,3,1,63,Calçados
+57,5,2,86,Têxteis
+58,9,3,87,Equipamentos Médicos
+59,9,3,46,Vacinas
+60,5,2,84,Eletrônicos
+61,9,3,15,Medicamentos
+62,9,3,14,Vacinas
+63,9,3,61,Alimentos
+64,9,3,27,Medicamentos
+65,3,1,21,Calçados
+66,3,1,17,Calçados
+67,9,3,18,Equipamentos Médicos
+68,5,2,24,Eletrônicos
+69,5,2,23,Eletrodomésticos
+70,9,3,24,Alimentos
+71,9,3,47,Vacinas
+72,9,3,31,Alimentos
+73,9,3,56,Vacinas
+74,9,3,31,Medicamentos
+75,9,3,36,Alimentos
+76,5,2,97,Têxteis
+77,9,3,65,Medicamentos
+78,9,3,72,Peças Mecânicas
+79,9,3,71,Vacinas
+80,5,2,88,Eletrônicos
+81,3,1,72,Calçados
+82,9,3,28,Alimentos
+83,3,1,86,Calçados
+84,3,1,86,Calçados
+85,5,2,50,Eletrônicos
+86,5,2,46,Têxteis
+87,9,3,24,Peças Mecânicas
+88,9,3,25,Vacinas
+89,5,2,46,Eletrodomésticos
+90,3,1,44,Calçados
+91,9,3,26,Peças Mecânicas
+92,9,3,96,Alimentos
+93,5,2,88,Eletrodomésticos
+94,5,2,85,Eletrônicos
+95,5,2,25,Têxteis
+96,9,3,42,Alimentos
+97,9,3,42,Equipamentos Médicos
+98,9,3,34,Vacinas
+99,3,1,73,Calçados
+100,5,2,77,Eletrônicos
+101,9,3,92,Equipamentos Médicos
+102,5,2,40,Têxteis
+103,9,3,72,Alimentos
+104,9,3,24,Equipamentos Médicos
+105,9,3,31,Peças Mecânicas
+106,9,3,20,Vacinas
+107,3,1,12,Calçados
+108,9,3,50,Equipamentos Médicos
+109,3,1,37,Roupas
+110,3,1,90,Roupas
+111,9,3,39,Medicamentos
+112,9,3,33,Vacinas
+113,9,3,38,Vacinas
+114,5,2,43,Têxteis
+115,3,1,31,Roupas
+116,5,2,45,Têxteis
+117,3,1,77,Calçados
+118,3,1,79,Roupas
+119,5,2,44,Têxteis
+120,9,3,59,Equipamentos Médicos
+121,3,1,18,Roupas
+122,9,3,51,Alimentos
+123,9,3,72,Alimentos
+124,9,3,76,Alimentos
+125,5,2,98,Eletrônicos
+126,9,3,26,Peças Mecânicas
+127,3,1,43,Calçados
+128,9,3,26,Equipamentos Médicos
+129,3,1,81,Calçados
+130,5,2,60,Eletrodomésticos
+131,9,3,76,Vacinas
+132,9,3,81,Vacinas
+133,3,1,53,Calçados
+134,3,1,64,Roupas
+135,9,3,39,Vacinas
+136,9,3,96,Alimentos
+137,9,3,35,Medicamentos
+138,3,1,35,Roupas
+139,9,3,29,Vacinas
+140,9,3,30,Equipamentos Médicos
+141,5,2,84,Têxteis
+142,5,2,45,Eletrônicos
+143,9,3,41,Alimentos
+144,9,3,21,Equipamentos Médicos
+145,9,3,53,Vacinas
+146,5,2,64,Eletrônicos
+147,9,3,41,Alimentos
+148,9,3,57,Medicamentos
+149,5,2,84,Eletrodomésticos
+150,5,2,93,Eletrônicos
+151,9,3,12,Medicamentos
+152,9,3,56,Peças Mecânicas
+153,9,3,82,Equipamentos Médicos
+154,3,1,42,Calçados
+155,9,3,21,Medicamentos
+156,3,1,63,Calçados
+157,3,1,70,Roupas
+158,5,2,74,Têxteis
+159,3,1,98,Calçados
+160,9,3,41,Alimentos
+161,9,3,62,Equipamentos Médicos
+162,5,2,100,Eletrodomésticos
+163,5,2,29,Têxteis
+164,3,1,41,Calçados
+165,5,2,41,Eletrodomésticos
+166,9,3,28,Peças Mecânicas
+167,5,2,45,Têxteis
+168,9,3,30,Vacinas
+169,9,3,43,Alimentos
+170,9,3,39,Vacinas
+171,5,2,92,Têxteis
+172,5,2,73,Têxteis
+173,5,2,79,Têxteis
+174,3,1,13,Calçados
+175,9,3,12,Medicamentos
+176,9,3,66,Vacinas
+177,3,1,15,Calçados
+178,5,2,88,Eletrônicos
+179,3,1,37,Calçados
+180,9,3,31,Peças Mecânicas
+181,9,3,48,Equipamentos Médicos
+182,3,1,70,Calçados
+183,5,2,97,Eletrônicos
+184,9,3,74,Medicamentos
+185,5,2,52,Eletrônicos
+186,9,3,34,Alimentos
+187,5,2,94,Eletrônicos
+188,3,1,11,Calçados
+189,5,2,92,Eletrodomésticos
+190,9,3,37,Equipamentos Médicos
+191,9,3,77,Vacinas
+192,9,3,18,Alimentos
+193,5,2,90,Eletrônicos
+194,5,2,99,Eletrodomésticos
+195,9,3,63,Vacinas
+196,5,2,60,Eletrônicos
+197,9,3,38,Equipamentos Médicos
+198,5,2,72,Têxteis
+199,9,3,52,Equipamentos Médicos
+200,9,3,43,Vacinas
+201,9,3,88,Vacinas
+202,9,3,34,Peças Mecânicas
+203,5,2,97,Eletrodomésticos
+204,5,2,36,Eletrodomésticos
+205,9,3,19,Equipamentos Médicos
+206,9,3,98,Peças Mecânicas
+207,5,2,17,Eletrônicos
+208,5,2,28,Eletrônicos
+209,9,3,57,Peças Mecânicas
+210,9,3,56,Alimentos
+211,9,3,79,Alimentos
+212,5,2,58,Eletrodomésticos
+213,5,2,12,Eletrodomésticos
+214,9,3,49,Medicamentos
+215,9,3,98,Vacinas
+216,9,3,65,Vacinas
+217,9,3,69,Vacinas
+218,9,3,13,Alimentos
+219,3,1,20,Roupas
+220,3,1,99,Calçados
+221,5,2,41,Têxteis
+222,3,1,80,Calçados
+223,9,3,64,Medicamentos
+224,9,3,21,Peças Mecânicas
+225,5,2,54,Têxteis
+226,5,2,30,Têxteis
+227,5,2,10,Têxteis
+228,9,3,21,Peças Mecânicas
+229,9,3,93,Alimentos
+230,5,2,48,Eletrônicos
+231,3,1,84,Roupas
+232,9,3,56,Equipamentos Médicos
+233,9,3,95,Vacinas
+234,9,3,72,Peças Mecânicas
+235,9,3,82,Equipamentos Médicos
+236,5,2,47,Eletrônicos
+237,5,2,65,Têxteis
+238,3,1,95,Roupas
+239,9,3,20,Peças Mecânicas
+240,9,3,76,Alimentos
+241,9,3,70,Peças Mecânicas
+242,5,2,63,Eletrodomésticos
+243,5,2,32,Eletrônicos
+244,5,2,76,Têxteis
+245,9,3,56,Vacinas
+246,5,2,18,Eletrônicos
+247,3,1,51,Roupas
+248,5,2,86,Eletrodomésticos
+249,9,3,62,Peças Mecânicas
+250,3,1,17,Calçados
+251,9,3,35,Peças Mecânicas
+252,9,3,92,Equipamentos Médicos
+253,9,3,41,Equipamentos Médicos
+254,9,3,90,Vacinas
+255,3,1,85,Calçados
+256,5,2,38,Eletrônicos
+257,5,2,91,Eletrodomésticos
+258,5,2,37,Eletrônicos
+259,9,3,80,Peças Mecânicas
+260,3,1,88,Calçados
+261,9,3,13,Alimentos
+262,3,1,68,Calçados
+263,9,3,41,Peças Mecânicas
+264,3,1,49,Roupas
+265,9,3,47,Medicamentos
+266,3,1,74,Roupas
+267,5,2,31,Eletrônicos
+268,5,2,68,Têxteis
+269,9,3,21,Vacinas
+270,5,2,100,Eletrodomésticos
+271,5,2,15,Têxteis
+272,5,2,76,Eletrodomésticos
+273,5,2,25,Têxteis
+274,5,2,67,Têxteis
+275,9,3,69,Equipamentos Médicos
+276,3,1,79,Calçados
+277,9,3,74,Alimentos
+278,3,1,33,Roupas
+279,9,3,43,Medicamentos
+280,9,3,59,Vacinas
+281,9,3,16,Equipamentos Médicos
+282,5,2,83,Têxteis
+283,3,1,61,Roupas
+284,9,3,65,Vacinas
+285,5,2,50,Eletrodomésticos
+286,5,2,54,Eletrônicos
+287,9,3,28,Alimentos
+288,5,2,96,Têxteis
+289,9,3,67,Peças Mecânicas
+290,9,3,92,Equipamentos Médicos
+291,5,2,24,Têxteis
+292,3,1,37,Roupas
+293,9,3,74,Equipamentos Médicos
+294,9,3,52,Medicamentos
+295,9,3,30,Peças Mecânicas
+296,3,1,53,Roupas
+297,5,2,100,Eletrônicos
+298,5,2,25,Eletrônicos
+299,9,3,84,Medicamentos
+300,5,2,62,Eletrodomésticos
+301,5,2,44,Eletrodomésticos
+302,9,3,40,Equipamentos Médicos
+303,5,2,87,Eletrônicos
+304,5,2,48,Eletrônicos
+305,3,1,69,Roupas
+306,3,1,78,Calçados
+307,9,3,43,Peças Mecânicas
+308,9,3,82,Medicamentos
+309,9,3,61,Peças Mecânicas
+310,9,3,59,Vacinas
+311,9,3,10,Medicamentos
+312,5,2,99,Eletrodomésticos
+313,9,3,53,Medicamentos
+314,3,1,27,Calçados
+315,5,2,58,Eletrodomésticos
+316,9,3,40,Equipamentos Médicos
+317,9,3,91,Peças Mecânicas
+318,9,3,50,Vacinas
+319,9,3,87,Peças Mecânicas
+320,9,3,39,Medicamentos
+321,5,2,57,Têxteis
+322,9,3,71,Vacinas
+323,9,3,24,Peças Mecânicas
+324,9,3,11,Peças Mecânicas
+325,5,2,24,Têxteis
+326,9,3,23,Peças Mecânicas
+327,3,1,76,Calçados
+328,5,2,98,Têxteis
+329,9,3,35,Equipamentos Médicos
+330,9,3,83,Alimentos
+331,3,1,37,Calçados
+332,9,3,41,Equipamentos Médicos
+333,9,3,55,Equipamentos Médicos
+334,3,1,13,Roupas
+335,9,3,37,Alimentos
+336,5,2,35,Têxteis
+337,9,3,51,Peças Mecânicas
+338,9,3,47,Medicamentos
+339,9,3,33,Alimentos
+340,3,1,86,Calçados
+341,5,2,11,Têxteis
+342,5,2,11,Eletrodomésticos
+343,3,1,16,Roupas
+344,5,2,63,Eletrônicos
+345,5,2,91,Eletrônicos
+346,3,1,60,Calçados
+347,5,2,18,Têxteis
+348,3,1,30,Roupas
+349,9,3,44,Alimentos
+350,9,3,37,Peças Mecânicas
+351,3,1,97,Roupas
+352,3,1,34,Roupas
+353,3,1,85,Roupas
+354,9,3,84,Medicamentos
+355,9,3,63,Medicamentos
+356,3,1,86,Roupas
+357,3,1,96,Roupas
+358,3,1,79,Roupas
+359,5,2,66,Eletrônicos
+360,9,3,23,Equipamentos Médicos
+361,3,1,67,Calçados
+362,5,2,40,Têxteis
+363,9,3,56,Alimentos
+364,9,3,40,Vacinas
+365,3,1,60,Roupas
+366,5,2,36,Têxteis
+367,9,3,54,Peças Mecânicas
+368,9,3,78,Vacinas
+369,9,3,37,Equipamentos Médicos
+370,9,3,16,Peças Mecânicas
+371,9,3,54,Peças Mecânicas
+372,3,1,71,Calçados
+373,5,2,48,Têxteis
+374,9,3,23,Equipamentos Médicos
+375,3,1,78,Roupas
+376,5,2,54,Eletrônicos
+377,5,2,66,Eletrodomésticos
+378,5,2,50,Eletrônicos
+379,5,2,50,Têxteis
+380,9,3,17,Peças Mecânicas
+381,5,2,95,Têxteis
+382,9,3,85,Peças Mecânicas
+383,9,3,31,Vacinas
+384,5,2,52,Têxteis
+385,9,3,15,Alimentos
+386,9,3,43,Alimentos
+387,3,1,56,Roupas
+388,9,3,19,Alimentos
+389,5,2,54,Têxteis
+390,9,3,66,Vacinas
+391,5,2,49,Têxteis
+392,5,2,46,Eletrodomésticos
+393,5,2,40,Eletrônicos
+394,5,2,79,Eletrônicos
+395,9,3,89,Alimentos
+396,9,3,48,Equipamentos Médicos
+397,5,2,96,Eletrônicos
+398,9,3,42,Equipamentos Médicos
+399,5,2,61,Eletrodomésticos
+400,3,1,95,Calçados
+401,9,3,32,Equipamentos Médicos
+402,9,3,77,Peças Mecânicas
+403,9,3,65,Vacinas
+404,9,3,77,Alimentos
+405,5,2,25,Eletrônicos
+406,5,2,75,Têxteis
+407,9,3,34,Peças Mecânicas
+408,9,3,64,Medicamentos
+409,5,2,31,Eletrônicos
+410,5,2,66,Têxteis
+411,9,3,22,Peças Mecânicas
+412,9,3,34,Peças Mecânicas
+413,9,3,40,Medicamentos
+414,5,2,73,Eletrodomésticos
+415,5,2,95,Têxteis
+416,5,2,53,Têxteis
+417,9,3,81,Medicamentos
+418,9,3,56,Alimentos
+419,9,3,53,Peças Mecânicas
+420,9,3,83,Equipamentos Médicos
+421,5,2,37,Eletrodomésticos
+422,5,2,34,Têxteis
+423,9,3,62,Equipamentos Médicos
+424,9,3,12,Vacinas
+425,9,3,58,Alimentos
+426,9,3,59,Medicamentos
+427,9,3,67,Medicamentos
+428,3,1,81,Calçados
+429,3,1,53,Roupas
+430,5,2,55,Eletrodomésticos
+431,9,3,78,Equipamentos Médicos
+432,3,1,99,Calçados
+433,5,2,22,Eletrodomésticos
+434,9,3,45,Alimentos
+435,3,1,29,Calçados
+436,9,3,41,Equipamentos Médicos
+437,9,3,98,Equipamentos Médicos
+438,9,3,96,Vacinas
+439,3,1,69,Calçados
+440,9,3,76,Peças Mecânicas
+441,5,2,81,Têxteis
+442,9,3,39,Medicamentos
+443,3,1,13,Calçados
+444,9,3,81,Vacinas
+445,9,3,84,Medicamentos
+446,9,3,50,Medicamentos
+447,3,1,57,Roupas
+448,9,3,41,Vacinas
+449,9,3,93,Medicamentos
+450,5,2,28,Têxteis
+451,5,2,85,Eletrônicos
+452,5,2,74,Têxteis
+453,5,2,67,Eletrônicos
+454,5,2,32,Eletrônicos
+455,5,2,59,Têxteis
+456,3,1,24,Roupas
+457,9,3,17,Medicamentos
+458,5,2,29,Eletrodomésticos
+459,9,3,71,Peças Mecânicas
+460,5,2,48,Eletrodomésticos
+461,5,2,10,Eletrodomésticos
+462,3,1,23,Roupas
+463,9,3,20,Medicamentos
+464,9,3,90,Medicamentos
+465,5,2,35,Eletrônicos
+466,5,2,99,Têxteis
+467,3,1,68,Calçados
+468,5,2,56,Eletrodomésticos
+469,9,3,44,Equipamentos Médicos
+470,9,3,49,Alimentos
+471,9,3,86,Medicamentos
+472,9,3,40,Medicamentos
+473,9,3,60,Equipamentos Médicos
+474,9,3,80,Peças Mecânicas
+475,9,3,62,Vacinas
+476,5,2,93,Eletrodomésticos
+477,5,2,61,Têxteis
+478,9,3,35,Medicamentos
+479,9,3,72,Vacinas
+480,9,3,57,Vacinas
+481,9,3,20,Alimentos
+482,3,1,21,Roupas
+483,3,1,69,Calçados
+484,9,3,62,Equipamentos Médicos
+485,9,3,81,Medicamentos
+486,9,3,27,Peças Mecânicas
+487,9,3,88,Peças Mecânicas
+488,9,3,54,Alimentos
+489,9,3,87,Medicamentos
+490,3,1,32,Roupas
+491,9,3,45,Peças Mecânicas
+492,5,2,56,Têxteis
+493,9,3,31,Vacinas
+494,9,3,61,Medicamentos
+495,5,2,93,Eletrônicos
+496,9,3,24,Equipamentos Médicos
+497,3,1,20,Roupas
+498,9,3,83,Medicamentos
+499,5,2,72,Têxteis
+500,5,2,50,Eletrônicos
+501,3,1,10,Roupas
+502,9,3,28,Peças Mecânicas
+503,9,3,92,Medicamentos
+504,9,3,20,Peças Mecânicas
+505,5,2,94,Eletrônicos
+506,9,3,14,Vacinas
+507,5,2,61,Eletrodomésticos
+508,9,3,66,Vacinas
+509,5,2,58,Têxteis
+510,9,3,25,Equipamentos Médicos
+511,5,2,20,Eletrodomésticos
+512,9,3,63,Alimentos
+513,9,3,73,Alimentos
+514,3,1,68,Calçados
+515,5,2,62,Eletrodomésticos
+516,5,2,14,Eletrônicos
+517,5,2,18,Eletrodomésticos
+518,9,3,16,Medicamentos
+519,9,3,68,Equipamentos Médicos
+520,5,2,86,Eletrônicos
+521,5,2,46,Eletrônicos
+522,9,3,77,Vacinas
+523,9,3,53,Vacinas
+524,9,3,80,Equipamentos Médicos
+525,9,3,94,Equipamentos Médicos
+526,5,2,67,Têxteis
+527,9,3,99,Vacinas
+528,3,1,96,Roupas
+529,3,1,64,Calçados
+530,3,1,12,Roupas
+531,9,3,57,Vacinas
+532,5,2,89,Eletrodomésticos
+533,3,1,40,Roupas
+534,9,3,61,Equipamentos Médicos
+535,9,3,15,Peças Mecânicas
+536,9,3,36,Peças Mecânicas
+537,9,3,80,Medicamentos
+538,9,3,58,Alimentos
+539,9,3,76,Vacinas
+540,5,2,28,Têxteis
+541,5,2,60,Eletrodomésticos
+542,5,2,88,Têxteis
+543,5,2,32,Eletrodomésticos
+544,9,3,33,Equipamentos Médicos
+545,5,2,58,Eletrodomésticos
+546,5,2,52,Eletrodomésticos
+547,5,2,66,Eletrodomésticos
+548,3,1,97,Calçados
+549,9,3,36,Alimentos
+550,3,1,44,Roupas
+551,3,1,66,Calçados
+552,9,3,98,Equipamentos Médicos
+553,9,3,99,Vacinas
+554,5,2,13,Têxteis
+555,9,3,86,Medicamentos
+556,9,3,81,Peças Mecânicas
+557,3,1,69,Calçados
+558,9,3,82,Equipamentos Médicos
+559,9,3,45,Peças Mecânicas
+560,3,1,67,Calçados
+561,5,2,51,Eletrodomésticos
+562,3,1,32,Roupas
+563,9,3,49,Vacinas
+564,5,2,32,Eletrônicos
+565,9,3,46,Alimentos
+566,5,2,85,Eletrônicos
+567,5,2,99,Têxteis
+568,3,1,33,Roupas
+569,3,1,84,Calçados
+570,3,1,23,Roupas
+571,9,3,75,Peças Mecânicas
+572,3,1,65,Roupas
+573,9,3,68,Vacinas
+574,9,3,27,Vacinas
+575,9,3,41,Vacinas
+576,9,3,28,Vacinas
+577,5,2,21,Eletrodomésticos
+578,5,2,89,Têxteis
+579,3,1,20,Calçados
+580,9,3,12,Equipamentos Médicos
+581,5,2,84,Eletrodomésticos
+582,9,3,17,Vacinas
+583,9,3,65,Alimentos
+584,3,1,58,Calçados
+585,9,3,100,Peças Mecânicas
+586,3,1,90,Roupas
+587,3,1,57,Roupas
+588,9,3,63,Equipamentos Médicos
+589,3,1,67,Calçados
+590,3,1,76,Calçados
+591,3,1,24,Calçados
+592,5,2,64,Eletrônicos
+593,9,3,26,Alimentos
+594,9,3,29,Medicamentos
+595,3,1,44,Calçados
+596,9,3,42,Peças Mecânicas
+597,9,3,59,Medicamentos
+598,5,2,55,Têxteis
+599,9,3,40,Peças Mecânicas
+600,3,1,65,Roupas
+601,5,2,50,Têxteis
+602,9,3,31,Alimentos
+603,5,2,48,Eletrodomésticos
+604,9,3,16,Alimentos
+605,9,3,21,Alimentos
+606,9,3,18,Alimentos
+607,9,3,61,Peças Mecânicas
+608,5,2,42,Eletrônicos
+609,9,3,59,Equipamentos Médicos
+610,5,2,36,Têxteis
+611,9,3,83,Medicamentos
+612,9,3,43,Equipamentos Médicos
+613,9,3,56,Alimentos
+614,9,3,39,Alimentos
+615,9,3,50,Peças Mecânicas
+616,9,3,93,Medicamentos
+617,9,3,67,Alimentos
+618,9,3,59,Peças Mecânicas
+619,9,3,57,Alimentos
+620,5,2,93,Eletrodomésticos
+621,9,3,58,Vacinas
+622,9,3,43,Medicamentos
+623,5,2,47,Eletrônicos
+624,9,3,57,Peças Mecânicas
+625,3,1,83,Roupas
+626,5,2,72,Têxteis
+627,3,1,28,Calçados
+628,9,3,87,Medicamentos
+629,5,2,82,Têxteis
+630,9,3,34,Alimentos
+631,9,3,64,Vacinas
+632,9,3,53,Vacinas
+633,3,1,65,Roupas
+634,9,3,69,Medicamentos
+635,5,2,94,Têxteis
+636,5,2,14,Eletrodomésticos
+637,9,3,98,Vacinas
+638,5,2,88,Têxteis
+639,5,2,32,Eletrônicos
+640,9,3,75,Vacinas
+641,3,1,83,Calçados
+642,5,2,86,Têxteis
+643,3,1,39,Roupas
+644,5,2,92,Têxteis
+645,5,2,94,Têxteis
+646,3,1,33,Calçados
+647,9,3,18,Alimentos
+648,5,2,35,Têxteis
+649,9,3,83,Medicamentos
+650,5,2,71,Eletrônicos
+651,9,3,97,Vacinas
+652,5,2,98,Têxteis
+653,5,2,82,Eletrônicos
+654,5,2,55,Eletrônicos
+655,9,3,46,Alimentos
+656,9,3,71,Medicamentos
+657,9,3,89,Equipamentos Médicos
+658,9,3,63,Peças Mecânicas
+659,9,3,25,Medicamentos
+660,3,1,21,Roupas
+661,9,3,15,Equipamentos Médicos
+662,9,3,19,Vacinas
+663,9,3,89,Medicamentos
+664,3,1,35,Calçados
+665,9,3,50,Peças Mecânicas
+666,9,3,16,Medicamentos
+667,3,1,60,Calçados
+668,9,3,63,Alimentos
+669,5,2,40,Têxteis
+670,5,2,76,Eletrodomésticos
+671,3,1,96,Roupas
+672,5,2,46,Eletrodomésticos
+673,9,3,24,Equipamentos Médicos
+674,9,3,24,Alimentos
+675,5,2,41,Eletrodomésticos
+676,9,3,33,Equipamentos Médicos
+677,3,1,13,Calçados
+678,9,3,87,Medicamentos
+679,9,3,60,Alimentos
+680,9,3,23,Equipamentos Médicos
+681,9,3,80,Equipamentos Médicos
+682,5,2,73,Eletrônicos
+683,9,3,16,Peças Mecânicas
+684,5,2,68,Têxteis
+685,5,2,28,Eletrônicos
+686,5,2,57,Eletrônicos
+687,9,3,93,Medicamentos
+688,9,3,43,Peças Mecânicas
+689,5,2,100,Têxteis
+690,5,2,83,Eletrodomésticos
+691,3,1,26,Calçados
+692,9,3,41,Vacinas
+693,5,2,72,Eletrônicos
+694,9,3,24,Peças Mecânicas
+695,9,3,27,Vacinas
+696,3,1,16,Calçados
+697,9,3,20,Alimentos
+698,5,2,17,Eletrodomésticos
+699,9,3,72,Vacinas
+700,3,1,24,Roupas
+701,5,2,64,Eletrônicos
+702,9,3,88,Vacinas
+703,3,1,70,Roupas
+704,5,2,29,Eletrônicos
+705,5,2,74,Eletrodomésticos
+706,9,3,56,Medicamentos
+707,9,3,65,Equipamentos Médicos
+708,9,3,59,Alimentos
+709,9,3,46,Vacinas
+710,5,2,49,Têxteis
+711,9,3,51,Vacinas
+712,9,3,41,Equipamentos Médicos
+713,3,1,53,Calçados
+714,5,2,86,Eletrodomésticos
+715,9,3,86,Alimentos
+716,9,3,31,Peças Mecânicas
+717,3,1,27,Calçados
+718,5,2,50,Eletrodomésticos
+719,9,3,16,Alimentos
+720,9,3,12,Vacinas
+721,9,3,61,Equipamentos Médicos
+722,5,2,92,Têxteis
+723,5,2,53,Têxteis
+724,5,2,53,Eletrodomésticos
+725,9,3,97,Equipamentos Médicos
+726,9,3,60,Peças Mecânicas
+727,3,1,17,Calçados
+728,3,1,73,Calçados
+729,9,3,36,Alimentos
+730,9,3,82,Vacinas
+731,9,3,93,Medicamentos
+732,3,1,38,Roupas
+733,5,2,29,Têxteis
+734,5,2,58,Têxteis
+735,3,1,70,Calçados
+736,3,1,73,Roupas
+737,9,3,12,Alimentos
+738,5,2,19,Eletrônicos
+739,9,3,20,Equipamentos Médicos
+740,9,3,28,Peças Mecânicas
+741,5,2,57,Têxteis
+742,5,2,46,Eletrônicos
+743,5,2,49,Eletrônicos
+744,3,1,87,Roupas
+745,5,2,22,Têxteis
+746,3,1,80,Roupas
+747,5,2,51,Eletrônicos
+748,9,3,86,Vacinas
+749,9,3,49,Peças Mecânicas
+750,9,3,50,Equipamentos Médicos
+751,5,2,98,Eletrônicos
+752,3,1,63,Roupas
+753,3,1,51,Roupas
+754,9,3,21,Peças Mecânicas
+755,5,2,98,Têxteis
+756,9,3,25,Vacinas
+757,5,2,88,Têxteis
+758,5,2,64,Eletrodomésticos
+759,9,3,20,Peças Mecânicas
+760,3,1,83,Calçados
+761,9,3,98,Equipamentos Médicos
+762,3,1,38,Roupas
+763,9,3,10,Vacinas
+764,9,3,68,Medicamentos
+765,5,2,90,Eletrônicos
+766,9,3,19,Equipamentos Médicos
+767,5,2,37,Têxteis
+768,9,3,70,Equipamentos Médicos
+769,9,3,72,Peças Mecânicas
+770,3,1,84,Calçados
+771,9,3,20,Vacinas
+772,3,1,98,Calçados
+773,3,1,100,Roupas
+774,5,2,65,Eletrodomésticos
+775,5,2,86,Têxteis
+776,5,2,70,Têxteis
+777,9,3,16,Peças Mecânicas
+778,5,2,94,Eletrônicos
+779,9,3,74,Equipamentos Médicos
+780,9,3,16,Medicamentos
+781,9,3,82,Vacinas
+782,9,3,59,Vacinas
+783,9,3,99,Equipamentos Médicos
+784,3,1,97,Calçados
+785,5,2,47,Eletrodomésticos
+786,3,1,83,Roupas
+787,9,3,97,Medicamentos
+788,5,2,34,Eletrônicos
+789,5,2,57,Eletrodomésticos
+790,5,2,52,Eletrônicos
+791,9,3,81,Medicamentos
+792,5,2,14,Têxteis
+793,3,1,49,Roupas
+794,9,3,25,Alimentos
+795,3,1,15,Roupas
+796,5,2,90,Têxteis
+797,9,3,53,Peças Mecânicas
+798,5,2,78,Eletrônicos
+799,9,3,94,Alimentos
+800,9,3,82,Vacinas
+801,5,2,77,Eletrodomésticos
+802,3,1,93,Roupas
+803,3,1,97,Calçados
+804,9,3,92,Alimentos
+805,9,3,76,Medicamentos
+806,9,3,33,Alimentos
+807,5,2,67,Têxteis
+808,5,2,58,Eletrodomésticos
+809,9,3,97,Peças Mecânicas
+810,5,2,16,Eletrodomésticos
+811,3,1,23,Calçados
+812,9,3,25,Alimentos
+813,3,1,45,Roupas
+814,9,3,82,Alimentos
+815,5,2,42,Eletrodomésticos
+816,5,2,84,Eletrônicos
+817,5,2,49,Eletrônicos
+818,9,3,44,Peças Mecânicas
+819,9,3,87,Vacinas
+820,9,3,15,Vacinas
+821,9,3,61,Medicamentos
+822,3,1,51,Calçados
+823,3,1,67,Roupas
+824,9,3,36,Equipamentos Médicos
+825,5,2,19,Têxteis
+826,3,1,91,Roupas
+827,5,2,15,Eletrônicos
+828,3,1,84,Calçados
+829,3,1,16,Roupas
+830,5,2,82,Têxteis
+831,5,2,98,Eletrônicos
+832,3,1,18,Calçados
+833,9,3,64,Equipamentos Médicos
+834,5,2,31,Têxteis
+835,9,3,61,Alimentos
+836,3,1,71,Roupas
+837,3,1,81,Roupas
+838,5,2,25,Têxteis
+839,9,3,98,Medicamentos
+840,3,1,59,Roupas
+841,5,2,65,Eletrônicos
+842,9,3,39,Medicamentos
+843,5,2,19,Eletrônicos
+844,9,3,72,Equipamentos Médicos
+845,9,3,37,Equipamentos Médicos
+846,3,1,77,Roupas
+847,9,3,60,Alimentos
+848,9,3,60,Medicamentos
+849,9,3,88,Medicamentos
+850,9,3,10,Medicamentos
+851,9,3,75,Alimentos
+852,9,3,13,Vacinas
+853,9,3,19,Peças Mecânicas
+854,9,3,35,Peças Mecânicas
+855,5,2,17,Têxteis
+856,9,3,87,Vacinas
+857,3,1,85,Roupas
+858,3,1,29,Roupas
+859,9,3,91,Peças Mecânicas
+860,9,3,93,Vacinas
+861,9,3,66,Alimentos
+862,9,3,22,Medicamentos
+863,9,3,80,Equipamentos Médicos
+864,5,2,77,Eletrônicos
+865,5,2,62,Têxteis
+866,5,2,81,Eletrodomésticos
+867,5,2,16,Eletrodomésticos
+868,5,2,82,Eletrodomésticos
+869,3,1,94,Roupas
+870,5,2,35,Eletrônicos
+871,5,2,29,Eletrônicos
+872,5,2,60,Têxteis
+873,9,3,17,Equipamentos Médicos
+874,9,3,65,Alimentos
+875,9,3,28,Medicamentos
+876,9,3,66,Medicamentos
+877,3,1,92,Calçados
+878,3,1,72,Roupas
+879,9,3,27,Peças Mecânicas
+880,9,3,51,Vacinas
+881,9,3,16,Alimentos
+882,5,2,52,Eletrodomésticos
+883,9,3,61,Vacinas
+884,9,3,88,Peças Mecânicas
+885,9,3,20,Vacinas
+886,9,3,80,Medicamentos
+887,9,3,61,Vacinas
+888,9,3,47,Peças Mecânicas
+889,5,2,93,Têxteis
+890,9,3,72,Medicamentos
+891,9,3,98,Equipamentos Médicos
+892,9,3,14,Medicamentos
+893,9,3,58,Medicamentos
+894,9,3,74,Equipamentos Médicos
+895,5,2,80,Têxteis
+896,5,2,76,Eletrodomésticos
+897,9,3,50,Alimentos
+898,5,2,35,Eletrônicos
+899,3,1,34,Calçados
+900,9,3,88,Peças Mecânicas
+901,9,3,55,Vacinas
+902,9,3,78,Alimentos
+903,3,1,64,Calçados
+904,3,1,89,Roupas
+905,5,2,62,Eletrodomésticos
+906,9,3,44,Peças Mecânicas
+907,5,2,36,Eletrodomésticos
+908,9,3,11,Alimentos
+909,9,3,88,Alimentos
+910,9,3,29,Medicamentos
+911,9,3,53,Equipamentos Médicos
+912,9,3,57,Vacinas
+913,5,2,53,Eletrônicos
+914,3,1,25,Calçados
+915,5,2,80,Eletrônicos
+916,9,3,66,Alimentos
+917,3,1,35,Roupas
+918,5,2,48,Têxteis
+919,5,2,71,Eletrônicos
+920,9,3,78,Vacinas
+921,5,2,85,Eletrodomésticos
+922,5,2,41,Têxteis
+923,9,3,69,Medicamentos
+924,9,3,52,Medicamentos
+925,3,1,39,Roupas
+926,9,3,48,Equipamentos Médicos
+927,9,3,68,Vacinas
+928,5,2,94,Eletrodomésticos
+929,9,3,23,Equipamentos Médicos
+930,5,2,64,Eletrodomésticos
+931,3,1,52,Roupas
+932,9,3,58,Vacinas
+933,9,3,41,Vacinas
+934,9,3,19,Alimentos
+935,5,2,78,Eletrônicos
+936,3,1,62,Roupas
+937,9,3,88,Peças Mecânicas
+938,5,2,61,Eletrônicos
+939,9,3,12,Peças Mecânicas
+940,9,3,84,Vacinas
+941,5,2,10,Eletrônicos
+942,3,1,66,Calçados
+943,3,1,64,Roupas
+944,5,2,17,Eletrônicos
+945,9,3,75,Medicamentos
+946,9,3,89,Medicamentos
+947,3,1,46,Calçados
+948,9,3,90,Alimentos
+949,9,3,84,Alimentos
+950,3,1,34,Roupas
+951,3,1,57,Calçados
+952,5,2,83,Eletrodomésticos
+953,3,1,76,Calçados
+954,9,3,75,Alimentos
+955,9,3,50,Vacinas
+956,3,1,14,Roupas
+957,9,3,97,Medicamentos
+958,3,1,31,Calçados
+959,5,2,59,Eletrônicos
+960,3,1,48,Roupas
+961,9,3,32,Alimentos
+962,5,2,66,Eletrônicos
+963,9,3,41,Equipamentos Médicos
+964,9,3,100,Alimentos
+965,5,2,80,Têxteis
+966,9,3,80,Medicamentos
+967,9,3,35,Medicamentos
+968,5,2,92,Eletrônicos
+969,9,3,13,Equipamentos Médicos
+970,9,3,48,Vacinas
+971,5,2,94,Eletrodomésticos
+972,5,2,67,Eletrônicos
+973,3,1,44,Roupas
+974,9,3,51,Alimentos
+975,5,2,57,Eletrodomésticos
+976,9,3,65,Medicamentos
+977,9,3,94,Vacinas
+978,5,2,84,Têxteis
+979,9,3,12,Medicamentos
+980,5,2,17,Eletrodomésticos
+981,5,2,75,Eletrônicos
+982,9,3,36,Equipamentos Médicos
+983,3,1,82,Roupas
+984,9,3,16,Peças Mecânicas
+985,5,2,91,Têxteis
+986,9,3,79,Peças Mecânicas
+987,3,1,63,Calçados
+988,5,2,40,Têxteis
+989,3,1,14,Roupas
+990,3,1,50,Calçados
+991,9,3,64,Alimentos
+992,3,1,99,Roupas
+993,5,2,33,Têxteis
+994,5,2,65,Eletrônicos
+995,5,2,24,Têxteis
+996,3,1,86,Calçados
+997,5,2,23,Têxteis
+998,9,3,30,Medicamentos
+999,9,3,23,Equipamentos Médicos
+1000,9,3,52,Peças Mecânicas

@@ -1,0 +1,8 @@
+.vscode
+.kilo
+**/data/*
+**/dataset/*
+**/output/*
+*.pdf
+
+!relatorio_vendas.pdf
